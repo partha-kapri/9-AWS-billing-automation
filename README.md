@@ -33,7 +33,7 @@ Options:
 
 ## Examples
 
-check cost explorer report of date range [2024-01-04,2024-01-05]
+check the report of date range [2024-01-04, 2024-01-05]
 
 ```bash
 $ ./main.py -P my-profile -S 2024-01-04 -E 2024-01-05

@@ -17,6 +17,17 @@ or
 $ pip3 install -r requirements.txt
 ```
 
+###Configure AWS CLI
+```bash
+
+C:\Users\user>aws configure --profile <profile-name>
+AWS Access Key ID [None]: <access-key>
+AWS Secret Access Key [None]: <secret-key>
+Default region name [None]: <region>
+Default output format [None]: <format>
+
+```
+
 ## Usage
 
 ```bash

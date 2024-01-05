@@ -47,7 +47,7 @@ Options:
 check the report of date range [2024-01-04, 2024-01-05]
 
 ```bash
-$ ./main.py -P my-profile -S 2024-01-04 -E 2024-01-05
+$ ./main.py -P <profile-name> -S 2024-01-04 -E 2024-01-05
 
 Estimated grand total: $0.88
 +-----------------+---------------+-------------------+-------------+

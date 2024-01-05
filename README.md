@@ -17,7 +17,7 @@ or
 $ pip3 install -r requirements.txt
 ```
 
-###Configure AWS CLI
+### Configure AWS CLI
 ```bash
 
 C:\Users\user>aws configure --profile <profile-name>
